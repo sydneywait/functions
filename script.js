@@ -349,7 +349,7 @@ cohort1HTML =
 }
 
 
-// document.querySelector("#cohort-one-container").innerHTML = cohortHTML;
+// document.querySelector("#cohort-one-container").innerHTML = cohort1HTML;
 
 function printHtmlString(htmlStringParameter, _elementIdParameter){
   document.querySelector("#_elementIdParameter").innerHTML = htmlStringParameter;
